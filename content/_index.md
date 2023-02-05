@@ -3,6 +3,6 @@ title: "COOP Careers Data Analytics Garden"
 enableToc: false
 ---
 
-# COOP Careers Data Analytics Garden
+# Data Analytics Garden
 
 A place to find and share resources to help yourself and fellow COOPers increase their technical skills and overcome underemployment.
