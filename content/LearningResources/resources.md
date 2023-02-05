@@ -4,7 +4,7 @@ enableToc: false
 ---
 # Common Data Tools
 
-## [Excel](Excel/ExcelResources.md)
+## [Excel](Excel.md)
 
 ## R
 
