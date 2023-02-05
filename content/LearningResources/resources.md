@@ -4,6 +4,18 @@ enableToc: false
 ---
 # Common Data Tools
 
-## Excel
+## [Excel](Excel/ExcelResources.md)
 
-#### The [Cheatsheet](/content/resources/excel-cheat-sheet.pdf)
+## R
+
+## Python
+
+## SQL
+
+## Tableau
+
+## Jupyter Notebook
+
+## Github
+
+## Other DA Resources
