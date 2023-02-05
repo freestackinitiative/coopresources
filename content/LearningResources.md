@@ -1,3 +1,8 @@
+---
+title: "Learning Resources"
+enableToc: false
+---
+
 # Learning Resources
 
 ## Excel
