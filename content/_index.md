@@ -9,3 +9,5 @@ A place to find and share resources to help yourself and fellow COOPers increase
 
 Resources for learning about and improving proficiency in common tools such as Excel, Tableau, Python, and SQL can be found in the [`Learning Resources`](analyticsresources/LearningResources.md) section.
 
+Checking on [Testing](Testing/Testing.md) stuff...
+
