@@ -11,15 +11,24 @@
             "id": "389dfafe309e4caf",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "bd16bebf9ff90fc6",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "LearningResources.md",
+                "file": "Excel.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LearningResources.md",
+                "file": "Excel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LearningResources.md",
+                "file": "Excel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LearningResources.md"
+                "file": "Excel.md"
               }
             }
           }
@@ -145,17 +154,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "389dfafe309e4caf",
+  "active": "bd16bebf9ff90fc6",
   "lastOpenFiles": [
-    "OtherResources.md",
-    "Excel.md",
     "LearningResources.md",
+    "Excel.md",
+    "Excel/Excel.md",
+    "OtherResources.md",
     "Tableau.md",
     "SQL.md",
     "R.md",
     "Python.md",
     "JupyterNotebook.md",
-    "Github.md",
-    "internal/Excel/excel-cheat-sheet.pdf"
+    "Github.md"
   ]
 }
