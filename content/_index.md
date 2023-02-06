@@ -1,5 +1,5 @@
 ---
-title: "COOP Careers Data Analytics Garden"
+title: "Home"
 enableToc: false
 ---
 
