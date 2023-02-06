@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Excel.md",
+                "file": "LearningResources.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excel.md",
+                "file": "LearningResources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excel.md",
+                "file": "LearningResources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excel.md"
+                "file": "LearningResources.md"
               }
             }
           }
@@ -147,15 +147,15 @@
   },
   "active": "389dfafe309e4caf",
   "lastOpenFiles": [
-    "internal/Excel/excel-cheat-sheet.pdf",
-    "Excel.md",
-    "OtherResources.md",
-    "LearningResources.md",
-    "Github.md",
-    "JupyterNotebook.md",
     "Tableau.md",
     "SQL.md",
+    "R.md",
     "Python.md",
-    "R.md"
+    "OtherResources.md",
+    "LearningResources.md",
+    "JupyterNotebook.md",
+    "Github.md",
+    "Excel.md",
+    "internal/Excel/excel-cheat-sheet.pdf"
   ]
 }

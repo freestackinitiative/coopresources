@@ -1,3 +1,14 @@
+---
+title: "Learning Resources"
+enableToc: false
+tags:
+  - learning
+  - excel
+  - sql
+  - tableau
+  - python
+  - resources
+---
 # Common Data Tools
 
   

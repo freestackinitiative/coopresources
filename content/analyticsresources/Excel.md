@@ -1,6 +1,10 @@
 ---
 title: "Excel"
 enableToc: false
+tags:
+- excel
+- sheets
+- spreadsheets
 ---
 # Excel Resources
 
