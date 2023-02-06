@@ -13,7 +13,7 @@ tags:
 
 
 
-## [Excel](Excel.md)
+## [Excel](/content/analyticsresources/Excel.md)
 
   
 
