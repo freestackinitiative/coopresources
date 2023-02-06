@@ -92,7 +92,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -147,15 +147,15 @@
   },
   "active": "389dfafe309e4caf",
   "lastOpenFiles": [
+    "OtherResources.md",
+    "Excel.md",
+    "LearningResources.md",
     "Tableau.md",
     "SQL.md",
     "R.md",
     "Python.md",
-    "OtherResources.md",
-    "LearningResources.md",
     "JupyterNotebook.md",
     "Github.md",
-    "Excel.md",
     "internal/Excel/excel-cheat-sheet.pdf"
   ]
 }
