@@ -7,4 +7,4 @@ tags:
 - sheets
 ---
 
-[Download the cheatsheet](LearningResources/internal/Excel/excel-cheat-sheet.pdf)
+[Download the cheatsheet](excel-cheat-sheet.pdf)
