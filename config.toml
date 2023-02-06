@@ -1,4 +1,4 @@
-baseURL = "https://martinmarroyo.github.io/analyticsresources/"
+baseURL = "https://martinmarroyo.github.io/analyticsresources/analyticsresources"
 languageCode = "en-us"
 googleAnalytics = "G-XYFD95KB4J"
 relativeURLs = false
