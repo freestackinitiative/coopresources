@@ -1,4 +1,4 @@
-name: Martin Arroyo
+name: Freestack Initiative
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -12,17 +12,17 @@ enableContextualBacklinks: true
 enableRecentNotes: false
 enableGitHubEdit: true
 enableMermaid: true
-GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
+GitHubLink: https://github.com/freestackinitiative
 search:
   enableSemanticSearch: false
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
   operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
 description:
-  A place to find and share resources to help yourself and fellow COOPers increase their technical skills and overcome underemployment.
+  A place to find and share resources to help yourself and fellow COOPers increase technical skills and overcome underemployment.
 page_title:
-  "COOP Careers"
+  "COOP Careers Community Resources"
 links:
   - link_name: GitHub
-    link: https://github.com/martinmarroyo
-  - link_name: LinkedIn
-    link: https://www.linkedin.com/in/martinmarroyo/
+    link: https://github.com/freestackinitiative/coopresources
+  - link_name: Freestack Initiative
+    link: https://www.freestackinitiative.org/
