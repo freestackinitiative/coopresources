@@ -33,6 +33,8 @@ tags:
 
 ## [Data Visualization](DataAnalytics/LearningResources/DataVisualization/DataVisualization.md)
 
+## [Machine Learning and AI](DataAnalytics/LearningResources/MachineLearningAI/MachineLearningAI.md)
+
 ## [Statistics](DataAnalytics/LearningResources/Statistics/Statistics.md) 
 
 ## [General](DataAnalytics/LearningResources/General/General.md)
@@ -40,4 +42,4 @@ tags:
 
 ## Add your own
 
-<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe class="airtable-embed airtable-dynamic-height" src="https://airtable.com/embed/shr1RJyOzKDn3dvQf?backgroundColor=blue" frameborder="0" onmousewheel="" width="100%" height="1949" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<iframe class="airtable-embed" src="https://airtable.com/embed/shr8J7RhkkUU61tsG?backgroundColor=blue" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
