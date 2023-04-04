@@ -11,7 +11,7 @@ Here is a link to the [Data Analytics](DataAnalytics/DataAnalytics.md) section
 
 # Digital Marketing
 
-Here is a link to the [Digital Marketing](DigitalMarketing/DigitalMarketing.md) section
+Here is a link to the [Digital Marketing](BusinessDevelopment/DigitalMarketing/DigitalMarketing.md) section
 
 # Business Development
 
@@ -19,4 +19,4 @@ Here is a link to the [Business Development](BusinessDevelopment/BusinessDevelop
 
 # Career & General
 
-Here is a link to the [Career & General](CareerAndGeneral/CareerAndGeneral.md) section
+Here is a link to the [Career & General](BusinessDevelopment/CareerAndGeneral/CareerAndGeneral.md) section
